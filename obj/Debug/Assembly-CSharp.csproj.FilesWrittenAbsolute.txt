@@ -1,0 +1,17 @@
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/TheMusician/UnityProject/ShadowRunner/obj/Debug/Assembly-CSharp.dll
+/Users/TheMusician/UnityProject/ShadowRunner/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/UnityEngine.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/UnityEditor.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Mono.Cecil.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Unity.DataContract.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/TheMusician/UnityProject/ShadowRunner/Temp/bin/Debug/Mono.Cecil.Mdb.dll
